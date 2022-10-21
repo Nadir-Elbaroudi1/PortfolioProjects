@@ -1,3 +1,7 @@
+--------------------------------------COVID Date Exploration-----------------------------------------------------------
+
+
+
 SELECT *
 FROM PortfolioProject..CovidDeaths
 WHERE continent IS NOT NULL
