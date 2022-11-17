@@ -1,4 +1,4 @@
----------------------- Cleaning Date in SQL Queries ----------------------------------
+---------------------- Cleaning Data in SQL Queries ----------------------------------
 -
 SELECT * 
 FROM PortfolioProject..NashvilleHousing
